@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "currencyexchangeDemoHomePage": "CurrencyExchange Demo Home Page",
+  "flutterDemo": "Flutter Demo",
+  "loadingWaiting": "Loading waiting...",
+  "failedToLoad": "Failed to load",
+  "lastUpdate": "Last Update:",
+  "dashboardCurrencies": "Dashboard Currencies",
+  "historyScreen": "History Screen"
+}
